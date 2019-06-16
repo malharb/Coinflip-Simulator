@@ -24,3 +24,4 @@ x = input('How many times would you like to simulate the coin flip?: ')
 x = int(x)
 
 coinflipsimulator(x)
+input('Press ENTER to exit')
